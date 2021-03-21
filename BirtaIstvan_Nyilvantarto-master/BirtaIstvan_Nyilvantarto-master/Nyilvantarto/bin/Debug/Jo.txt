@@ -1,0 +1,17 @@
+1;Kassák Lajos összes versei / [sajtó alá rendezte és az utószót írta Kassák Lajosné], 1. köt.;1969;;True
+2;3 perces mesék Micimackóról;2006;Egmont-Hungary;True
+3;C?ehov, Anton Pavlovic? (1860-1904);A 6-os számú kórterem és más írások;1994;Holnap;True
+4;7x7 híres mai magyar regény;1997;Móra;True
+5;McNeill, Elizabeth;9 és 1/2 hét : Egy szerelmi kapcsolat emléke;1990;ILX Kft;True
+6;A 10-14 éves gyermek : tanulás - pályaválasztás;1970;Kossuth Kiadó;True
+7;Jentner, Edith Lichtl, Gerti;10 kis nyuszi;1993;Egmont Hungary;True
+8;Mass, Wendy (1967-);11 szülinap;2015;Könyvmolyképző K.;True
+9;Mass, Wendy (1967-);13 ajándék;2016;Könyvmolyképző K.;True
+10;Dobayné Fenyvesi Ildikó;13 dráma : felkészülés érettségire, felvételire;2004;Mérték K.;True
+11;Townsend, Sue (1946-2014);A 13 és 3/4 éves Adrian Mole titkos naplója;[2009], cop. 1986;Gabo;True
+12;Csoma Gyula (1932-);A 14-18 évesek : ők és mi;1970;Kossuth Kiadó;True
+13;Heller, Joseph (1923-1999);A 22-es csapdája;1977;Európa;True
+14;24 izgalmas novella;1966;Európa;True
+15;44 híres eposz, verses regény, elbeszélő költemény;1999;Móra;True
+16;52 heti önellenőrző napló;Cukorbetegek gyakorlati kézikönyve.;True
+17;Wager, Walter;58 perc;cop. 1990;Fabula;True

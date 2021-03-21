@@ -1,0 +1,9 @@
+1;Kassák Lajos összes versei / [sajtó alá rendezte és az utószót írta Kassák Lajosné], 1. köt.
+2;3 perces mesék Micimackóról;2006;Egmont-Hungary
+3;C?ehov, Anton Pavlovic? (1860-1904);A 6-os számú kórterem és más írások;Holnap
+4;7x7 híres mai magyar regény;1997;Móra
+5;McNeill, Elizabeth;9 és 1/2 hét : Egy szerelmi kapcsolat emléke;ILX Kft
+6;A 10-14 éves gyermek : tanulás - pályaválasztás;Kossuth Kiadó
+7;Jentner, Edith Lichtl, Gerti;10 kis nyuszi;Egmont Hungary
+8;Mass, Wendy (1967-);11 szülinap;Könyvmolyképző K.
+9;Mass, Wendy (1967-);13 ajándék;Könyvmolyképző K.
